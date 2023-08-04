@@ -1,0 +1,12 @@
+Library/
+Ch10_nonPBR.fbx
+.vs/
+obj/
+Temp/
+Logs/
+UserSettings/
+Packages/
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+3d_Shooter.sln
